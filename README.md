@@ -6,7 +6,7 @@ Data science projects portfolio
 * Visualization
 * Modelling 
 
-![pie chart](https://github.com/abolayo/Data-Portfolio/blob/main/images/Kaggle.PNG)
+![pie chart](images/Kaggle.PNG)
 
 # [Project 2: Data Science Life Expentancy Estimator](https://github.com/abolayo/DScience/blob/master/life-expectancy/life_expectancy_demo.ipynb)
 * Data Wrangling
