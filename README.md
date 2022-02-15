@@ -17,11 +17,11 @@ Data science projects portfolio
 * Standardize the magnitude of numeric features
 * Modelling and Review of used models
 
- ![box-plots](https://github.com/abolayo/Data-Portfolio/blob/main/images/life-expentancy.PNG)
+ ![box-plots](images/life-expentancy.PNG)
  
 # [Project 3: Data Science Impact of covid19 on the global Economy](https://github.com/HDSC-21/covid19-on-the-global-economy/blob/main/Image/EDA.ipynb)
 For this project I EDA
 * Data vitualization
 * Modelling
 
- ![second image](https://github.com/abolayo/Data-Portfolio/blob/main/images/life-expentancy.PNG)
+ ![second image](images/life.PNG)
