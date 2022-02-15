@@ -19,7 +19,7 @@ Data science projects portfolio
 
  ![box-plots](images/life.png)
  
-# [Project 3: Data Science Impact of covid19 on the global Economy](https://github.com/HDSC-21/covid19-on-the-global-economy/blob/main/Image/EDA.ipynb)
+# [Project 3: Data Science Impact of Covid19 on Global Economy](https://github.com/HDSC-21/covid19-on-the-global-economy/blob/main/Image/EDA.ipynb)
 For this project I EDA
 * Data vitualization
 * Modelling
