@@ -24,4 +24,4 @@ For this project I EDA
 * Data vitualization
 * Modelling
 
- ![second image](images/life.PNG)
+ ![second image](images/life.png)
