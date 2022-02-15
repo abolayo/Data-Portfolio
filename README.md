@@ -6,8 +6,7 @@ Data science projects portfolio
 * Visualization
 * Modelling 
 
-![pie chart][imagek]
-[imagek]: https://github.com/abolayo/Data-Portfolio/blob/main/images/Kaggle.PNG
+![pie chart](https://github.com/abolayo/Data-Portfolio/blob/main/images/Kaggle.PNG)
 
 # [Project 2: Data Science Life Expentancy Estimator](https://github.com/abolayo/DScience/blob/master/life-expectancy/life_expectancy_demo.ipynb)
 * Data Wrangling
@@ -18,8 +17,7 @@ Data science projects portfolio
 * Standardize the magnitude of numeric features
 * Modelling and Review of used models
 
- ![box-plots][logo]
- [logo]: https://github.com/abolayo/Data-Portfolio/blob/main/images/life-expentancy.PNG
+ ![box-plots](https://github.com/abolayo/Data-Portfolio/blob/main/images/life-expentancy.PNG)
  
 # [Project 3: Data Science Impact of covid19 on the global Economy](https://github.com/HDSC-21/covid19-on-the-global-economy/blob/main/Image/EDA.ipynb)
 For this project I EDA
