@@ -8,4 +8,4 @@ For this project I EDA
 * Data vitualization
 * Modelling
 
- ![](https://github.com/abolayo/Data-Portfolio/tree/main/images/Screenshot(23).png)
+ ![](https://github.com/abolayo/Data-Portfolio/tree/main/images/Screenshot(24).png)
