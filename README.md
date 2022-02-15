@@ -24,4 +24,4 @@ For this project I EDA
 * Data vitualization
 * Modelling
 
- ![second image](images/histogram.png)
+ ![second image](images/dropplot.png)
