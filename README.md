@@ -1,5 +1,5 @@
-# Data-Portfolio
-My data science projects portfolio
+# Apanpa-Kolade
+Data science projects portfolio
 # [Project 1: Data Science Life Expentancy Estimator](https://github.com/abolayo/Data-science/blob/main/Life%20Expectancy%20Data.csv)
 
  ![first image](https://github.com/abolayo/Data-Portfolio/blob/main/images/Screenshot%20(23).png)
