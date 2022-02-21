@@ -30,20 +30,20 @@ Data science projects portfolio
 
  ![box-plots](images/life.png)
  
-# [Project on Impact of Covid19 on Global Economy](https://github.com/HDSC-21/covid19-on-the-global-economy/blob/main/Image/EDA.ipynb)
-For this project I EDA
-* Data Vitualization
-* Modelling
-
- ![second image](images/dropplot.png)
- 
- # [Project 4: House Prices - Advanced Regression Techniques](https://github.com/abolayo/DScience/blob/master/kaggel/house-prices.ipynb)
+ # [Project on Predicting House Prices - Advanced Regression Techniques](https://github.com/abolayo/DScience/blob/master/kaggel/house-prices.ipynb)
  * Data Preprocessing
  * Data Visualiztion
  * Modelling
  * Analysis and Summary
  
  ![house-image](images/qq-plot.png)
+  
+# [Project on Impact of Covid19 on Global Economy](https://github.com/HDSC-21/covid19-on-the-global-economy/blob/main/Image/EDA.ipynb)
+* Data Vitualization
+* Modelling
+
+ ![second image](images/dropplot.png)
+ 
  
 
  
