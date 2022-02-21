@@ -1,7 +1,8 @@
 # Apanpa-Kolade
 Data science projects portfolio
 
- #[Project from Forage:BCG Data Science & Advanced Analytics Virtual Experience Program ](https://github.com/abolayo/DScience/blob/master/forage/forage.ipynb)
+
+ # [Project from Forage:BCG Data Science & Advanced Analytics Virtual Experience Program ](https://github.com/abolayo/DScience/blob/master/forage/forage.ipynb)
  * Business Understanding & Hypothesis Framing: Understanding the business context and problem statement.
  * Exploratory data analysis: Understanding the business through data
  * Data Visualization and Feature Engineering 
