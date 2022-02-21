@@ -25,3 +25,20 @@ For this project I EDA
 * Modelling
 
  ![second image](images/dropplot.png)
+ 
+ # [Project 4: House Prices - Advanced Regression Techniques](https://github.com/abolayo/DScience/blob/master/kaggel/house-prices.ipynb)
+ * Data preprocessing
+ * Data visualiztion
+ * Modelling
+ * Analysis and Summary
+ 
+ ![house-image](images/qq-plot.png)
+ 
+ #[Project 5: Forage: ](https://github.com/abolayo/DScience/blob/master/forage/forage.ipynb)
+ * Abstract on Hypothesis
+ * Data Wangling
+ * Data Visualization and Feature Engineering 
+ * Modelling and Summary of findings
+ 
+ ![forage-image](images/forage-scatter.png)
+ 
