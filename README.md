@@ -1,47 +1,31 @@
 # Apanpa-Kolade
-## Data science projects portfolio
-
-# [Project from Forage:BCG Data Science & Advanced Analytics Virtual Experience Program ](https://github.com/abolayo/DScience/blob/master/forage/forage.ipynb)
- * Business Understanding & Hypothesis Framing: Understanding the business context and problem statement.
- * Exploratory data analysis: Understanding the business through data
- * Data Visualization and Feature Engineering 
- * Modelling : Uncovering signals within the data, predicting churn probability and evaluating model performance.
- * Findings and Recommendations
- 
- ![forage-image](images/forage-scatter.png)
- 
-# [Project from Playground on Kaggel](https://github.com/abolayo/DScience/blob/master/kaggel/tabular-playground-series-jan2022.ipynb)
-* Exploratory Data Analysis: thorough examination to uncover the underlying structure of the given data set.
-* Data Preprocessing
-* Visualization
-* Modelling 
-
-![pie chart](images/Kaggle.PNG)
-
-# [Project on Life Expentancy Estimator](https://github.com/abolayo/DScience/blob/master/life-expectancy/life_expectancy_demo.ipynb)
-* Data Wrangling
-* Build Data Profile and plots
-* Explore Data Relationships
-* Identification and creation of features (Feature Engineering)
-* Create Dummy or Indicator features for Categorical variables
-* Standardize the magnitude of numeric features
-* Modelling and Review of used models
-
- ![box-plots](images/life.png)
- 
- # [Project on Predicting House Prices - Advanced Regression Techniques](https://github.com/abolayo/DScience/blob/master/kaggel/house-prices.ipynb)
- * Data Preprocessing
- * Data Visualiztion
- * Modelling
- * Analysis and Summary
- 
- ![house-image](images/qq-plot.png)
+## Data Science portfolio
+<u>Recent Projects</u>
   
-# [Project on Impact of Covid19 on Global Economy](https://github.com/HDSC-21/covid19-on-the-global-economy/blob/main/Image/EDA.ipynb)
-* Data Vitualization
-* Modelling
+#### [Project on Bankruptcy](https://github.com/abolayo/wqu_learnings/blob/master/Bankruptcy/bank_ruptcy-Copy1.ipynb)
+ [Predict Bankruptcy]('interact%20%20with%20app')
 
- ![second image](images/dropplot.png)
+<b>This Model predicts the bankruptcy of some industries based on the information provided.
+ Excellent for Trading Companies and Insurance Companies. </b>
+<i>
+
+Exploratory Data Analysis, Data Preprocessing, Modelling, Feature Extraction,
+Model Exportation</i>
+
+
+#### [Stock Volatility](https://github.com/abolayo/wqu_learnings/blob/master/Volatility/project.ipynb)
+<b>This Model predicts the degree of variation or fluctuation in the price of a stock over a certain period.
+Indicating the level of risk associated with the stock's price movements.</b>
+
+<i>Working with APIs, Build Data Profile and plots, Time Series Analysis,Identification and creation of features (Feature Engineering),
+Modelling and Review of used models</i>
+
+ #### [Project on Predicting House Prices - Advanced Regression Techniques](https://github.com/abolayo/DScience/blob/master/kaggel/house-prices.ipynb)
+Data Preprocessing, Data Visualization, Modelling, Analysis and Summary
+ 
+   
+#### [Data Scrapping: Language Card Game ](https://github.com/abolayo/games/tree/main/project_flash_cards)
+<i>Data Scraping, Data Wangling, Use Interface, Just for Fun <i>
  
  
 
