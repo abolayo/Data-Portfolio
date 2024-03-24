@@ -1,0 +1,43 @@
+# Apanpa-Kolade
+## Data science portfolio
+
+
+  
+# [Project on Bankruptcy](https://github.com/abolayo/wqu_learnings/blob/master/Bankruptcy/bank_ruptcy-Copy1.ipynb)
+#[Predict Bankruptcy]('interact  with app')
+## This Model predicts the bankruptcy of some industries based on the information provided. Excellent for Trading Companies and Insurance Companies. 
+* Exploratory Data Analysis: Thorough examination to uncover the underlying structure of the given data set.
+* Data Preprocessing
+* Modelling 
+* Feature Extraction
+* Model Exportation
+
+![pie chart](images/Feature_importancy_bankruptcy.PNG)
+
+# [Stock Volatility](https://github.com/abolayo/wqu_learnings/blob/master/Volatility/project.ipynb)
+## This Model predicts the degree of variation or fluctuation in the price of a stock over a certain period. Indicating the level of risk associated with the stock's price movements.
+* Working with APIs
+* Build Data Profile and plots
+* Time Series Analysis
+* Identification and creation of features (Feature Engineering)
+* Modelling and Review of used models
+
+ ![box-plots](images/life.png)
+ 
+ # [Project on Predicting House Prices - Advanced Regression Techniques](https://github.com/abolayo/DScience/blob/master/kaggel/house-prices.ipynb)
+ * Data Preprocessing
+ * Data Visualization
+ * Modelling
+ * Analysis and Summary
+ 
+ ![house-image](images/qq-plot.png)
+  
+# [Data Scrapping: Language Card Game ](https://github.com/abolayo/games/tree/main/project_flash_cards)
+ * Data Scaping: Use of automated process to extract data from websites using software scripts.
+ * Data Wangling: Use Python language to prepare extracted data
+ * Use Interface: Simple interactive user interface with Python language. 
+ * Just for Fun
+ 
+ 
+
+ 
