@@ -1,7 +1,5 @@
-## Apanpa-Kolade
 Data Scientist with experience in software development.
 Currently focused on building responsible machine learning solutions.
-### Data Science portfolio
 <u>Recent Projects</u>
   
 #### [Project on Bankruptcy](https://github.com/abolayo/wqu_learnings/blob/master/Bankruptcy/bank_ruptcy-Copy1.ipynb)
@@ -22,7 +20,7 @@ Indicating the level of risk associated with the stock's price movements.</b>
 <i>Working with APIs, Build Data Profile and plots, Time Series Analysis,Identification and creation of features (Feature Engineering),
 Modelling and Review of used models</i>
 
- #### [Project on Predicting House Prices - Advanced Regression Techniques](https://github.com/abolayo/DScience/blob/master/kaggel/house-prices.ipynb)
+#### [Project on Predicting House Prices - Advanced Regression Techniques](https://github.com/abolayo/DScience/blob/master/kaggel/house-prices.ipynb)
 Data Preprocessing, Data Visualization, Modelling, Analysis and Summary
  
    
