@@ -1,5 +1,7 @@
-# Apanpa-Kolade
-## Data Science portfolio
+## Apanpa-Kolade
+Data Scientist with experience in software development.
+Currently focused on building responsible machine learning solutions.
+### Data Science portfolio
 <u>Recent Projects</u>
   
 #### [Project on Bankruptcy](https://github.com/abolayo/wqu_learnings/blob/master/Bankruptcy/bank_ruptcy-Copy1.ipynb)
