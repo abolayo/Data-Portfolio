@@ -11,9 +11,7 @@ Leveraging advanced machine learning techniques, our model analyzes a diverse se
 predict the likelihood of bankruptcy for businesses. By harnessing the power of Random Forest algorithms, we provide
 robust and reliable predictions, empowering organizations to proactively mitigate financial risks and make informed
 decisions to safeguard their investments. </p>
-<i>
-
-Exploratory Data Analysis, Data Preprocessing, Modelling, Feature Extraction,
+<i>Exploratory Data Analysis, Data Preprocessing, Modelling, Feature Extraction,
 Model Exportation</i>
 
 
