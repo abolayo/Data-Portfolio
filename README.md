@@ -4,7 +4,7 @@ Currently focused on building responsible machine learning solutions.
 <u>Recent Projects</u>
   
 #### [Project on Bankruptcy](https://github.com/abolayo/wqu_learnings/blob/master/Bankruptcy/bank_ruptcy-Copy1.ipynb)
- [Predict Bankruptcy]('interact%20%20with%20app')
+ [Predict Bankruptcy](https://predictsalary-5r98u55cdr84y9hvrygddq.streamlit.app/)
 
 <p>Introducing our innovative bankruptcy-predicting model built with a Random Forest classifier!
 Leveraging advanced machine learning techniques, our model analyzes a diverse set of financial indicators to accurately
@@ -26,11 +26,12 @@ risk effectively in dynamic market environments.</p>
 Modelling and Review of used models</i>
 
 #### [Project on Predicting House Prices - Advanced Regression Techniques](https://github.com/abolayo/DScience/blob/master/kaggel/house-prices.ipynb)
+[App Predict House Price](https://vf5n4mzbcffgcfq9b6uda2.streamlit.app/)
 <p>Introducing our state-of-the-art house price-predicting model built with advanced regression techniques! Leveraging 
 powerful machine learning algorithms, our model analyzes a multitude of housing-related factors to provide accurate 
 predictions of property prices. By employing advanced regression techniques, including Ridge, Lasso, or Elastic Net
 regression, we ensure robust and reliable predictions, empowering buyers, sellers, and real estate professionals to 
-make informed decisions in the dynamic housing market.</p>
+make informed decisions in the dynamic housing market. Training data from Nigeria 2000 - 2004</p>
 <i>Data Preprocessing, Data Visualization, Modelling, Analysis and Summary</i>
  
    
